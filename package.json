@@ -14,6 +14,8 @@
     "preset": "react-native"
   },
   "dependencies": {
+    "react-native-parallax-scroll-view": "^0.21.3",
+    "react-native-cardview": "^2.0.5",
     "axios": "0.19.0",
     "lodash": "4.17.20",
     "moment": "2.27.0",
