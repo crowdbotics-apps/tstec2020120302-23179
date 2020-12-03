@@ -11,9 +11,9 @@ files in the github repository. You will need to review/modify/add:
 
   **ADD** Dependency after Line 16 (dependencies opening line)
   
-  ``` "react-native-parallax-scroll-view": "^0.21.3",
-      "react-native-cardview": "^2.0.5", 
-  ```
+  ``` "react-native-parallax-scroll-view": "^0.21.3",```
+  ``` "react-native-cardview": "^2.0.5", ```
+
 
 **/src/features/PrivacyPolicyScreen#######/screens/index.js**
 
