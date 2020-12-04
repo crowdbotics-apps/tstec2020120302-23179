@@ -5,7 +5,7 @@ import {createDrawerNavigator} from 'react-navigation-drawer';
 import SplashScreen from "../features/SplashScreen";
 import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
-import PrivacyPolicyScreen1181974Navigator from '../features/PrivacyPolicyScreen1181974/navigator';
+//import PrivacyPolicyScreen1181974Navigator from '../features/PrivacyPolicyScreen1181974/navigator';
 
 
 /**
@@ -15,7 +15,7 @@ import PrivacyPolicyScreen1181974Navigator from '../features/PrivacyPolicyScreen
 const AppNavigator = {
 
     //@BlueprintNavigationInsertion
-PrivacyPolicyScreen1181974: { screen: PrivacyPolicyScreen1181974Navigator },
+//PrivacyPolicyScreen1181974: { screen: PrivacyPolicyScreen1181974Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
@@ -29,7 +29,7 @@ const DrawerAppNavigator = createDrawerNavigator(
   },
   {
     contentComponent: SideMenu,
-    initialRouteName: "BlankScreen1181975",
+//    initialRouteName: "BlankScreen1181975",
   },
 );
 
